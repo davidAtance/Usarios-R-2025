@@ -7,7 +7,7 @@ Las diapositivas se encuentran en el fichero: Taller3-CvmortalityMult.pdf y Tall
 # SCRIPTS 
 Los ficheros scripts utilizados para el Taller3-CvmortalityMult son: 
 
-- 1. SinglePopulationMortalityModels.R
+- 1.SinglePopulationMortalityModels.R
 - 2.MultiPopulationMortalityModels.R
 - 3.CVinMultiPopulationMortalityModels.R
 
