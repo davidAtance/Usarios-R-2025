@@ -1,4 +1,4 @@
-# Usarios-R-2025
+# IV Congreso & XV JORNADAS de Usuarios de R 
 Taller 3 - Modelos de mortalidad multi-poblacionales (CvmortalityMult). Descomposición de la esperanza de vida (LEdecomp) - David Atance .
 
 # SLIDES 
