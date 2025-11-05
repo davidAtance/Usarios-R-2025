@@ -6,6 +6,24 @@ Las diapositivas del taller se encuentran en los ficheros:
 - Taller3-CvmortalityMult.pdf;
 - Taller3-LEdecomp.pdf
 
+# NECESSARY PACKAGES 
+# Installation:
+To install the CvmortalityMult package from R CRAN:
+```
+install.packages("CvmortalityMult")
+library(CvmortalityMult)
+```
+Cran repository can be found in:
+https://CRAN.R-project.org/package=CvmortalityMult
+
+To install the LEdecomp R package from github:
+```
+devtools::install_github("davidAtance/LEdecomp")
+library(LEdecomp)
+```
+If you are interested in the packages feel free to email david.atance@uah.es or track development at http://github.com/davidAtance/CvmortalityMult
+http://github.com/davidAtance/LEdecomp
+
 # SCRIPTS 
 Los ficheros scripts utilizados para el Taller3-CvmortalityMult son: 
 
