@@ -2,7 +2,9 @@
 Taller 3 - Modelos de mortalidad multi-poblacionales (CvmortalityMult). Descomposición de la esperanza de vida (LEdecomp) - David Atance .
 
 # SLIDES 
-Las diapositivas se encuentran en el fichero: Taller3-CvmortalityMult.pdf y Taller3-LEdecomp.pdf para la primera y segunda parte, respectivamente. 
+Las diapositivas del taller se encuentran en los ficheros: 
+- Taller3-CvmortalityMult.pdf;
+- Taller3-LEdecomp.pdf
 
 # SCRIPTS 
 Los ficheros scripts utilizados para el Taller3-CvmortalityMult son: 
